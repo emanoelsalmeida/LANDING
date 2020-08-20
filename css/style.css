@@ -16,7 +16,7 @@ header h1 {
     top: 15px;
     left: 25%;
     margin: 0px;
-    width:700px;
+    width:800px;
 }
 /*.header .img-young img{
     height: 40vh;
@@ -392,6 +392,10 @@ footer p a{
     header .text-sell1 p:nth-child(2){
     font-size: 40px;
     }
+    header .text-sell1 .copy-header p{
+        font-size: 50px;
+        font-weight: 300;
+    }
     header .text-sell1 .copy-header{
         font-size: 30px;
     }
@@ -413,6 +417,7 @@ footer p a{
         top:370px;
         left: -10px;
     }
+   
     .page-one .title-pg1 h1{
         width: 770px;
         font-size: 100px;
@@ -546,11 +551,11 @@ footer p a{
         height: 2vh;
     }
     .pag-two .square button{
-        width:520px;
-        height:80px;   
-        font-size:30px;
+        width:620px;
+        height:140px;   
+        font-size:50px;
         position: relative;
-        left:5%;
+        left:4%;
         bottom:70px;
     }
     .pag-two h2{
@@ -577,6 +582,6 @@ footer p a{
         width:845px ;
         font-size:45px ;
         position: relative;
-        left: 10%;
+        left: 15%;
     }
 }
